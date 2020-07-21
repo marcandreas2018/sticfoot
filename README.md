@@ -1,0 +1,2 @@
+# sticfoot
+GitHub Pages
